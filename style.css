@@ -22,6 +22,14 @@ body{
 }
 
 
+.privaci{
+    text-align: justify;
+    font-size: 1.5vw;
+    margin: 30px;
+    color: #000000;
+    background: #ffffff67;
+}
+
 h2{
     margin-top: 100px;
     margin-left: 700px;
